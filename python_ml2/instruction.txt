@@ -1,0 +1,34 @@
+Zadanie 0. Wstępna analiza danych
+
+Wczytujemy i prezentujemy dane
+Sprawdzamy czy zestaw danych zawiera puste komórki
+Liczymy podstawowe wartości statystyczne (min, max, mean, stdv, q1, q2, q3) dla kolumn :
+o calories
+o protein
+o fat
+o sodium
+o fiber
+o carbo
+o sugars
+o potass
+o vitamins
+
+Zadanie 1. Klasyfikacja
+
+Badamy wpływ informacji o płatkach śniadaniowych na klasyfikację tego, na jakiej półce w
+sklepie się znajdują
+A więc naszą zmienną wyjściową będzie kolumna „shelf”
+Zaś zmiennymi wejściowymi cała reszta pomijając kolumnę „name”
+Klasyfikację należy przeprowadzić zarówno za pomocą modelu KNN jak i RandomForest
+Należy porównać skuteczność modeli z różnymi hiperparametrami, co najmniej trzy modele
+KNN i RF
+
+Zadanie 2. Regresja
+
+Badamy wpływ informacji o płatkach śniadaniowych na to jak zostały ocenione przez
+klientów
+A więc naszą zmienną wyjściową będzie kolumna „rating”
+Zaś zmiennymi wejściowymi cała reszta pomijając kolumnę „name”
+Regresję należy przeprowadzić zarówno za pomocą modelu KNN jak i RandomForest
+Należy porównać jakość modeli z różnymi hiperparametrami, co najmniej trzy modele KNN i
+RF wykorzystując odpowiednie mierniki (przynajmniej r^2)

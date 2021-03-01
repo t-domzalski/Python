@@ -1,0 +1,7 @@
+Klasyfikacja, svm
+
+Skorzystać ze zbioru danych iris
+Podzielić dane na trening i test
+Wykonać klasyfikację algorytmem SVM
+Wyniki przedstawić za pomocą skuteczności, confusion matrix i classification report
+Krótka analiza wyników

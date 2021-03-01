@@ -1,0 +1,14 @@
+c. Napisać funkcję zwracającą wartość prawdopodobieństwa na podstawie
+określonej wzorem z zajęć ze statystyki ilości parametrów wejściowych.
+d. Policzyć i przedstawić wyniki dla poniższych przykładów:
+a. Prawdopodobieństwo wylosowania wartości 3 w rzucie kostką
+b. Prawdopodobieństwo wylosowania wartości 1 lub 4 w rzucie
+kostką
+c. Prawdopodobieństwo wylosowania wartości większej od 2 w
+rzucie kostką
+e. Napisać funkcję zwracającą wartość prawdopodobieństwa warunkowego
+na podstawie określonej wzorem z zajęć ze statystyki ilości parametrów
+wejściowych.
+f. Policzyć i przedstawić wyniki dla przykładu: Wykonano rzut sześcienną
+kostką do gry. Wyznacz prawdopodobieństwo wyrzucenia więcej niż
+trzech oczek, jeśli wiadomo, że wypadła parzysta liczba oczek.

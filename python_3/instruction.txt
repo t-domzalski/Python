@@ -1,0 +1,17 @@
+1. Zapoznanie się z danymi
+a. Przedstawić ogólną charakterystykę zestawu danych (head, info, itp.)
+b. Sprawdzić czy występują jakieś puste komórki. Jeśli tak, to ile ich jest i w jakich
+kolumnach.
+2. Podstawowe operacje dla kolumn „Age”, „Balance” oraz „NoOfContacts”:
+a. Sprawdzenie czy zawierają wyłącznie liczby
+b. Wyznaczenie wartości minimalna
+c. Wyznaczenie wartości maksymalna
+d. Wyznaczenie średniej
+e. Wyznaczenie odchylenia standardowego
+3. Histogramy wartości dla kolumn „Age”, „Balance” oraz „NoOfContacts”.
+a. Wykonać wykresy
+b. Zapisać wykresy do plików(nie wrzucać na gita! Sam sobie wygeneruję ;P)
+4. Skromna statystyka
+a. Policzyć ile razy w kolumnie „Outcome” występuje wartość „success” oraz „failure”
+b. Policzyć jakie jest prawdopodobieństwo sukcesu oraz porażki na tle wszystkich
+rozmów

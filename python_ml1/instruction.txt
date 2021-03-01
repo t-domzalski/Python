@@ -1,0 +1,21 @@
+Zadanie 1. Wstęp
+• Wczytać dane
+• przeprowadzić krótką eksplorację
+• jeżeli będzie brakować jakichś wartości, to takie wiersze usuwamy
+
+Zadanie 1. Badanie zależności między zmiennymi
+• za pomocą regresji liniowej zbadać zależności między trzema dowolnymi parami
+zmiennych ciągłych
+• policzyć dla każdej regresji wartość R 2
+• przedstawić własny wniosek na temat zależności między wybranymi parami
+zmiennych
+
+Zadanie 3. Klasyfikacja
+• Przeprowadzić klasyfikację zmiennej ‘Final de Semana’, czyli to będzie nasz y
+• Badania jakości klasyfikacji przeprowadzamy dla różnych dwóch, trzech i
+czterech zmiennych
+• Ponadto sprawdzamy klasyfikację modelem regresji logistycznej jak i drzewem
+decyzyjnym
+• Wyniki każdej klasyfikacji porównujemy za pomocą metody score wbudowanej
+w obiekt modelu oraz za pomocą metody accuracy_score wchodzącej w skład
+obiektu sklearn.metrics

@@ -1,0 +1,9 @@
+XGboost
+a. Przeprowadzić regresję cen nieruchomości w datasecie boston,
+sklearn.datasets.load_boston()
+b. Skorzystać z modelu XGBRegressor
+c. Podzielić dane na trening i test
+d. W ramach danych treningowych przeprowadzić walidację krzyżową
+e. Trening i walidację przeprowadzić dla co najmniej trzech różnych modeli o różnych
+parametrach
+f. Wyniki na części testowej różnych modeli zaprezentować na wykresie.
